@@ -13,7 +13,7 @@ mss==9.0.1
 numpy==1.24.3
 onnx
 onnx_simplifier==0.4.28
-onnxruntime==1.13.1
+onnxruntime
 opencv_python==4.7.0.72
 opencv_python_headless==4.7.0.72
 openvino==2023.0.0
@@ -25,7 +25,7 @@ protobuf==3.5.2
 psutil==5.9.4
 pycocotools==2.0.6
 PyYAML==6.0
-ray==2.5.0
+ray
 Requests==2.31.0
 scipy==1.10.1
 seaborn==0.12.2
