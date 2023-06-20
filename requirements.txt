@@ -33,7 +33,6 @@ sentry_sdk==1.17.0
 setuptools==65.6.3
 streamlit==1.23.1
 tensorflow==2.11.0
-tensorflow_intel==2.11.0
 tensorflowjs==4.7.0
 tensorrt==8.6.1
 tflite_runtime==2.12.0
