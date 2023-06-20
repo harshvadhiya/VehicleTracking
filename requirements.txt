@@ -31,7 +31,7 @@ scipy==1.10.1
 seaborn==0.12.2
 sentry_sdk==1.17.0
 setuptools==65.6.3
-streamlit==1.23.1
+streamlit
 tensorflow==2.11.0
 tensorflowjs==4.7.0
 tensorrt==8.6.1
