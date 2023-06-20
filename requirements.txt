@@ -41,5 +41,5 @@ thop==0.1.1.post2209072238
 torch==2.0.1
 torchvision==0.15.2
 tqdm==4.64.1
-wandb==0.15.4
+wandb
 x2paddle==1.4.1
