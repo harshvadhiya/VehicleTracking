@@ -38,7 +38,7 @@ tensorrt==8.6.1
 tflite_runtime
 tflite_support
 thop==0.1.1.post2209072238
-torch==2.0.1
+torch
 torchvision==0.15.2
 tqdm==4.64.1
 wandb
