@@ -7,6 +7,8 @@ This is a vehicle tracking project that uses YOLOv8 for object detection and Dee
 
 ## Usage
 
+You can view or test app at: https://vehicletracking.streamlit.app
+
 This project is built using following resources
 
 - Python 3
@@ -22,7 +24,7 @@ Run the following command to start the Streamlit app:
 streamlit run main.py
 ```
 
-You can now open the app in your web browser at https://vehicletracking.streamlit.app.
+You can now open the app in your web browser at localhost:8051.
 
 The app provides the following functionality:
 
