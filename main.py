@@ -240,6 +240,8 @@ elif app_mode == "Count Vehicles From Video":
     if torch.cuda.is_available():
         enable_gpu = st.sidebar.checkbox("Enable GPU", False)
         st.sidebar.markdown("---")
+    else:
+        enable_gpu = False
 
     video_file_buffer = st.sidebar.file_uploader("Upload a video", type=["mp4"])
     tffile = tempfile.NamedTemporaryFile(delete=False)
