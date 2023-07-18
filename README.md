@@ -22,7 +22,7 @@ Run the following command to start the Streamlit app:
 streamlit run main.py
 ```
 
-You can now open the app in your web browser at http://localhost:8501.
+You can now open the app in your web browser at https://vehicletracking.streamlit.app.
 
 The app provides the following functionality:
 
