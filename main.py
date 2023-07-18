@@ -126,6 +126,8 @@ elif app_mode == "Track From Video":
     if torch.cuda.is_available():
 
         enable_gpu = st.sidebar.checkbox("Enable GPU",False)
+    else:
+        enable_gpu = False
         
         
 
