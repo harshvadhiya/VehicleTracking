@@ -16,7 +16,7 @@ This project is built using following resources
 - DeepSORT
 - PyTorch
 - OpenCV
-- Streamlit
+- Streamlit.
 
 Run the following command to start the Streamlit app:
 
